@@ -110,34 +110,34 @@ header {
 }
 
 .work {
-    background-image: url('./images/icon-work.svg');
+    background-image: url('./icon-work.svg');
     background-color: var(--light-red-work);
 }
 
 .play {
-    background-image: url('./images/icon-play.svg');
+    background-image: url('./icon-play.svg');
     background-color: var(--soft-blue-play);
 }
 
 .study {
-    background-image: url('./images/icon-study.svg');
+    background-image: url('./icon-study.svg');
     background-color: var(--light-red-study);
 }
 
 .exercise {
-    background-image: url('./images/icon-exercise.svg');
+    background-image: url('./icon-exercise.svg');
     background-color: var(--lime-green-exercise);
     background-position: 90% 1%;
 }
 
 .social {
-    background-image: url('./images/icon-social.svg');
+    background-image: url('./icon-social.svg');
     background-color: var(--violet-social);
     background-position: 90% -10%;
 }
 
 .self-care {
-    background-image: url('./images/icon-self-care.svg');
+    background-image: url('./icon-self-care.svg');
     background-color: var(--soft-orange-self-care);
     background-position: 90% -10%;
 }
@@ -238,7 +238,7 @@ header {
 
     .big-items span {
         padding-top: 0;
-        justify-self: right;
+        display: inline;
     }
 }
  
