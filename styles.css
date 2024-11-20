@@ -233,12 +233,13 @@ header {
     .big-items {
         font-size: 22px;
         padding: 1rem 1rem 1rem 1.5rem;
+        display:flex;
         justify-content: space-between;
     }
 
     .big-items span {
         padding-top: 0;
-        display: inline;
+        display: unset;
     }
 }
  
