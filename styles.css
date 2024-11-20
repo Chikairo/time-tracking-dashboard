@@ -240,6 +240,7 @@ header {
     .big-items span {
         padding-top: 0;
         display: unset;
+        padding-left: 4rem;
     }
 }
  
